@@ -7,5 +7,6 @@ Preprocessing pipeline including resizing, normalization, and augmentation
 Deep learning model built using CNNs / Transfer Learning (e.g., ResNet, EfficientNet, MobileNet)
 Evaluation metrics: accuracy, precision, recall, confusion matrix
 Exportable trained model for integration into mobile or web applications
-#Downlaod the trained model 
+
+##Downlaod the trained model 
 https://drive.google.com/file/d/1nlWhCT19g9ge12SXZgt26aKpaZkxqpxi/view?usp=drive_link
